@@ -1,4 +1,4 @@
-* Student CRUD Spring Boot Application
+->Student CRUD Spring Boot Application
 
 This is a simple web-based CRUD (Create, Read, Update, Delete) application developed using Spring Boot, Thymeleaf, and H2 Database.
 
