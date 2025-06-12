@@ -42,6 +42,18 @@ cd Student-crud-springboot
 ### 3. Access the App
       http://localhost:8080/students
 
+### 4. Database Config
+      
+PostgreSQL Setup
+
+Make sure PostgreSQL is installed and running.
+	1.Create a PostgreSQL user and database:
+             
+	createuser -s postgres
+        createdb studentdb
+	    
+      
+
 ## ➤ Screenshots
 
   1. Student List Page
